@@ -1,1 +1,3 @@
 Próbny tekst - commit 1
+
+Dodatkowa linia - commit 2
