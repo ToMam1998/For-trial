@@ -1,0 +1,6 @@
+To jest nowy plik testowy
+
+
+Nic tu tak naprawdę nie ma
+
+Uwaga, kolejna linijka została dodana
