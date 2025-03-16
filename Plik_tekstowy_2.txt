@@ -1,3 +1,7 @@
 Drugi plik tekstowy
 
 Dodano inną linię w miejscu drugiej linii
+
+Dodatkowa linia 3
+
+Dodatkowa linia 4
